@@ -115,14 +115,14 @@
 
 <div align="center" width="380px" >
     
-![Anurag's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=jaenfigueroa&count_private=true&show_icons=true)
+![Anurag's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=yaachay&count_private=true&show_icons=true)
     
 </div> 
 
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=jaenfigueroa&label=Profile Views  &color=red&style=flat" height="24px"/>
+<img src="https://komarev.com/ghpvc/?username=yaachay&label=Profile Views  &color=red&style=flat" height="24px"/>
 </div> 
 
 <br/>
